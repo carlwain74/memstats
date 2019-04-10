@@ -1,0 +1,4 @@
+STATSD_SERVER 10.1.1.1
+STATSD_PORT 9191
+SERVER_FILE server_list.txt
+REMOTE_USER cloud_user
